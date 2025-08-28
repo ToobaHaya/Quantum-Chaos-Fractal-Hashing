@@ -19,6 +19,3 @@ The code applies chaotic and fractal-inspired phase shifts on a quantum circuit,
   - **Measurement histogram**
   - **Bloch sphere plots**
 
-Measurement Histogram
-
-Histogram of measurement outcomes (shots = 4096):
