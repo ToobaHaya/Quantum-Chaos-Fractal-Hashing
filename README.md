@@ -19,11 +19,6 @@ The code applies chaotic and fractal-inspired phase shifts on a quantum circuit,
   - **Measurement histogram**
   - **Bloch sphere plots**
 
----
+Measurement Histogram
 
-##  Installation
-
-```bash
-git clone https://github.com/ToobaHaya/Quantum-Chaos-Fractal-Hashing.git
-cd Quantum-Chaos-Fractal-Hashing
-pip install qiskit qiskit-aer qiskit-ibm-runtime matplotlib
+Histogram of measurement outcomes (shots = 4096):
