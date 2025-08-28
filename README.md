@@ -20,13 +20,3 @@ It also generates **random bitstreams** and their **SHA-256 digest**, making it 
   - Measurement histogram  
   - Bloch sphere plots  
 
----
-
-## 📦 Installation
-
-Clone the repo and install dependencies:
-
-```bash
-git clone https://github.com/your-username/quantum-chaos-randomness.git
-cd quantum-chaos-randomness
-pip install qiskit qiskit-aer qiskit-ibm-runtime matplotlib
